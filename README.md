@@ -8,8 +8,7 @@ Tus tareas consisten en:
 ### Enrique Fernández Fernández
 <img src='/vrivas-2022.png' width='200px'>
 
-Profesor del departamento de Informática de la Universidad de Jaén.
+Alumno cursando la asignatura de Desarrollo Ágil de la Universidad de Jaén.
 * **Correo**: eff00007@red.ujaen.es
-* **Web**: http://vrivas.es
-* **GitHub**: https://github.com/vrivas/
+* **GitHub**: https://github.com/eff00007
 * **Trello**: https://trello.com/vrivas_ujaen_es
