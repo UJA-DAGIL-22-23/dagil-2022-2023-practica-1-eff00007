@@ -11,4 +11,4 @@ Tus tareas consisten en:
 Alumno cursando la asignatura de Desarrollo Ágil de la Universidad de Jaén.
 * **Correo**: eff00007@red.ujaen.es
 * **GitHub**: https://github.com/eff00007
-* **Trello**: https://trello.com/vrivas_ujaen_es
+* **Trello**: https://trello.com/w/eff000071/home
