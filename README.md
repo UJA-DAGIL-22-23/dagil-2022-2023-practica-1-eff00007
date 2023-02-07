@@ -6,7 +6,7 @@ Tus tareas consisten en:
 2) Añadir un fichero <code>datos.json</code> en el que se almacenen los mismos datos (incluída la URL de la imagen) en formato [JSON](https://es.wikipedia.org/wiki/JSON).
 
 ### Enrique Fernández Fernández
-<img src='/vrivas-2022.png' width='200px'>
+<img src='/WhatsApp Image 2023-02-07 at 14.06.21.jpeg' width='200px'>
 
 Alumno cursando la asignatura de Desarrollo Ágil de la Universidad de Jaén.
 * **Correo**: eff00007@red.ujaen.es
