@@ -7,8 +7,16 @@ Tus tareas consisten en:
 
 ### Enrique Fernández Fernández
  <img src='/WhatsApp Image 2023-02-07 at 14.06.21.jpeg' width='200px'>
+ 
+ 
 
 Alumno cursando la asignatura de Desarrollo Ágil de la Universidad de Jaén.
 * **Correo**: eff00007@red.ujaen.es
 * **GitHub**: https://github.com/eff00007
 * **Trello**: https://trello.com/w/eff000071/home
+
+### Capturas:
+
+ <img src='trello1.jpg' width='200px'>
+  <img src='trello2.jpg' width='200px'>
+   <img src='iniciogit.jpg' width='200px'>
